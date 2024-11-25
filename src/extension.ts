@@ -181,7 +181,7 @@ export function activate(context: vscode.ExtensionContext) {
     registerSnippetProvider(context, snippets);
 
     // Register the command to analyze the current file
-    let disposable = vscode.commands.registerCommand('extension.analyzeDeprecatedHooks', () => {
+    let disposable = vscode.commands.registerCommand('rust-vscode.analyzeHooks', () => {
         outputChannel.appendLine('Manual analysis triggered');
         const activeEditor = vscode.window.activeTextEditor;
         if (activeEditor) {
