@@ -3,9 +3,13 @@
   "displayName": "Rust Game Hook Analyzer",
   "description": "Analyzer for Rust game hooks with validation and deprecation warnings",
   "version": "0.0.1",
-  "publisher": "rust-tools",
+  "publisher": "publicrust",
   "engines": {
     "vscode": "^1.95.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/publicrust/rust-vscode"
   },
   "categories": [
     "Programming Languages",
