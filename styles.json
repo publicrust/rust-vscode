@@ -1,0 +1,16 @@
+{
+    "defaultStyle": {
+        "backgroundColor": "#00FD2A",
+        "backgroundOpacity": 0.3,
+        "fontWeight": "bold",
+        "border": "1px solid #388E3C",
+        "borderRadius": "3px"
+    },
+    "deprecatedStyle": {
+        "backgroundColor": "#FF0000",
+        "backgroundOpacity": 0.3,
+        "fontWeight": "bold",
+        "border": "1px solid #B71C1C",
+        "borderRadius": "3px"
+    }
+}
