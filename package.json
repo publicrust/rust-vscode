@@ -2,7 +2,7 @@
   "name": "rust-vscode",
   "displayName": "Rust Game Hook Analyzer",
   "description": "Analyzer for Rust game hooks with validation and deprecation warnings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "publicrust",
   "engines": {
     "vscode": "^1.75.0"
